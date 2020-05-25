@@ -578,7 +578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: ee20351ce5a83e3a4a71415427f0a79d,
+  m_Actions: {fileID: -944628639613478452, guid: e996f707fe17332459953a3e0466d0fd,
     type: 3}
   m_NotificationBehavior: 2
   m_DeviceLostEvent:
@@ -710,23 +710,23 @@ MonoBehaviour:
   - m_PersistentCalls:
       m_Calls: []
     m_ActionId: 065bd238-d293-4d95-9a54-04c515bf8577
-    m_ActionName: Actions/MF 3D Tilt Up[/MidiDevice/control001,/MidiDevice1/control001]
+    m_ActionName: Actions/MF 3D Tilt Up
   - m_PersistentCalls:
       m_Calls: []
     m_ActionId: fe64493a-9efc-4c8e-b7d5-aab07080e841
-    m_ActionName: Actions/MF 3D Tilt Down[/MidiDevice/control003,/MidiDevice1/control003]
+    m_ActionName: Actions/MF 3D Tilt Down
   - m_PersistentCalls:
       m_Calls: []
     m_ActionId: b54fa795-bf67-4781-834c-d24fe4a6fd93
-    m_ActionName: Actions/MF 3D Tilt Left[/MidiDevice/control000,/MidiDevice1/control000]
+    m_ActionName: Actions/MF 3D Tilt Left
   - m_PersistentCalls:
       m_Calls: []
     m_ActionId: 7f32d840-05b4-4ffb-85f1-2ce7858dd7a8
-    m_ActionName: Actions/MF 3D Tilt Right[/MidiDevice/control002,/MidiDevice1/control002]
+    m_ActionName: Actions/MF 3D Tilt Right
   - m_PersistentCalls:
       m_Calls: []
     m_ActionId: 3db6c9af-f279-474d-bbc6-50ae79b85ae1
-    m_ActionName: Actions/MF 3D Tilt 2D[/MidiDevice/control001,/MidiDevice1/control001,/MidiDevice/control003,/MidiDevice1/control003,/MidiDevice/control000,/MidiDevice1/control000,/MidiDevice/control002,/MidiDevice1/control002]
+    m_ActionName: Actions/MF 3D Tilt 2D
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: MIDI Device
   m_DefaultActionMap: Actions
