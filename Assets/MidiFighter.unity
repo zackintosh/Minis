@@ -578,7 +578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: e996f707fe17332459953a3e0466d0fd,
+  m_Actions: {fileID: -944628639613478452, guid: ee20351ce5a83e3a4a71415427f0a79d,
     type: 3}
   m_NotificationBehavior: 2
   m_DeviceLostEvent:
@@ -603,21 +603,10 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 581947673}
         m_MethodName: Play
         m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1325052001}
-        m_MethodName: Log
-        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -643,90 +632,6 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: ca322236-ae16-47ad-b9a5-f40ec222dc23
     m_ActionName: Actions/Scale
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 9e5959c5-7196-40d6-b19a-060549e5ba36
-    m_ActionName: Actions/Grid 0,0
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 0efea7a2-a2e3-4721-9367-39b2cdfa95b4
-    m_ActionName: Actions/Grid 1,0
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: a9e64847-33db-48a8-a97b-56c22c92b72c
-    m_ActionName: Actions/Grid 2,0
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 9fd483e9-b141-42c3-84f7-f3c3191024d8
-    m_ActionName: Actions/Grid 3,0
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: f0b83acf-0229-4611-b4d8-f011036345ef
-    m_ActionName: Actions/Grid 0,1
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: f19f510b-d6d0-41ac-841a-b9c2549bfe30
-    m_ActionName: Actions/Grid 1,1
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: fbab434e-cb49-4f81-af24-f71b17134aa6
-    m_ActionName: Actions/Grid 2,1
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: c815c754-65d3-4dbb-9021-bde1f5f20bab
-    m_ActionName: Actions/Grid 3,1
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: d03eb427-5c3e-4331-8aae-afe73502e6a4
-    m_ActionName: Actions/Grid 0,2
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 41dbb117-04c4-4c8e-90ad-87c4708e09ac
-    m_ActionName: Actions/Grid 1,2
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 1423aab4-4c88-46a1-8923-4386a96388a9
-    m_ActionName: Actions/Grid 2,2
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 8998af5b-b6f4-474a-8185-d48aa60943b2
-    m_ActionName: Actions/Grid 3,2
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 65eb3026-2795-467b-a373-1ad5118fb30d
-    m_ActionName: Actions/Grid 0,3
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 81f0f6af-92d6-4ef3-a76b-1340dba12b61
-    m_ActionName: Actions/Grid 1,3
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: b4ed0f93-d8f1-4fd4-ad2c-2568e44609f7
-    m_ActionName: Actions/Grid 2,3
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 98559c14-e193-4819-a896-dd8990371dc5
-    m_ActionName: Actions/Grid 3,3
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 065bd238-d293-4d95-9a54-04c515bf8577
-    m_ActionName: Actions/MF 3D Tilt Up
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: fe64493a-9efc-4c8e-b7d5-aab07080e841
-    m_ActionName: Actions/MF 3D Tilt Down
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: b54fa795-bf67-4781-834c-d24fe4a6fd93
-    m_ActionName: Actions/MF 3D Tilt Left
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 7f32d840-05b4-4ffb-85f1-2ce7858dd7a8
-    m_ActionName: Actions/MF 3D Tilt Right
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 3db6c9af-f279-474d-bbc6-50ae79b85ae1
-    m_ActionName: Actions/MF 3D Tilt 2D
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: MIDI Device
   m_DefaultActionMap: Actions
@@ -797,7 +702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7565ab2637895694ab9d785032f9ff1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _channel: 0
+  _channel: -1
   _productName: nanoKEY
 --- !u!1 &1426350576
 GameObject:
