@@ -9,6 +9,7 @@
     }
   ],
   "dependencies": {
+    "com.unity.ide.rider": "1.1.4",
     "com.unity.timeline": "1.3.2"
   }
 }

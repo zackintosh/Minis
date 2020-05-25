@@ -1,0 +1,507 @@
+{
+    "name": "Sphere Actions",
+    "maps": [
+        {
+            "name": "Actions",
+            "id": "24017309-51fb-49d4-9888-52a3e74ae9c4",
+            "actions": [
+                {
+                    "name": "Hit",
+                    "type": "Button",
+                    "id": "d4df89af-d9ef-4f96-9f77-b00c6fefbdc1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Scale",
+                    "type": "Value",
+                    "id": "ca322236-ae16-47ad-b9a5-f40ec222dc23",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 0,0",
+                    "type": "Value",
+                    "id": "9e5959c5-7196-40d6-b19a-060549e5ba36",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 1,0",
+                    "type": "Value",
+                    "id": "0efea7a2-a2e3-4721-9367-39b2cdfa95b4",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 2,0",
+                    "type": "Value",
+                    "id": "a9e64847-33db-48a8-a97b-56c22c92b72c",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 3,0",
+                    "type": "Value",
+                    "id": "9fd483e9-b141-42c3-84f7-f3c3191024d8",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 0,1",
+                    "type": "Value",
+                    "id": "f0b83acf-0229-4611-b4d8-f011036345ef",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 1,1",
+                    "type": "Value",
+                    "id": "f19f510b-d6d0-41ac-841a-b9c2549bfe30",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 2,1",
+                    "type": "Value",
+                    "id": "fbab434e-cb49-4f81-af24-f71b17134aa6",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 3,1",
+                    "type": "Value",
+                    "id": "c815c754-65d3-4dbb-9021-bde1f5f20bab",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 0,2",
+                    "type": "Value",
+                    "id": "d03eb427-5c3e-4331-8aae-afe73502e6a4",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 1,2",
+                    "type": "Value",
+                    "id": "41dbb117-04c4-4c8e-90ad-87c4708e09ac",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 2,2",
+                    "type": "Value",
+                    "id": "1423aab4-4c88-46a1-8923-4386a96388a9",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 3,2",
+                    "type": "Value",
+                    "id": "8998af5b-b6f4-474a-8185-d48aa60943b2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 0,3",
+                    "type": "Value",
+                    "id": "65eb3026-2795-467b-a373-1ad5118fb30d",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 1,3",
+                    "type": "Value",
+                    "id": "81f0f6af-92d6-4ef3-a76b-1340dba12b61",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 2,3",
+                    "type": "Value",
+                    "id": "b4ed0f93-d8f1-4fd4-ad2c-2568e44609f7",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Grid 3,3",
+                    "type": "Value",
+                    "id": "98559c14-e193-4819-a896-dd8990371dc5",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MF 3D Tilt Up",
+                    "type": "Value",
+                    "id": "065bd238-d293-4d95-9a54-04c515bf8577",
+                    "expectedControlType": "MidiValue",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MF 3D Tilt Down",
+                    "type": "Value",
+                    "id": "fe64493a-9efc-4c8e-b7d5-aab07080e841",
+                    "expectedControlType": "MidiValue",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MF 3D Tilt Left",
+                    "type": "Value",
+                    "id": "b54fa795-bf67-4781-834c-d24fe4a6fd93",
+                    "expectedControlType": "MidiValue",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MF 3D Tilt Right",
+                    "type": "Value",
+                    "id": "7f32d840-05b4-4ffb-85f1-2ce7858dd7a8",
+                    "expectedControlType": "MidiValue",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MF 3D Tilt 2D",
+                    "type": "Value",
+                    "id": "3db6c9af-f279-474d-bbc6-50ae79b85ae1",
+                    "expectedControlType": "MidiValue",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "49daf170-c962-49f4-9eed-ff9f2c724b3f",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Hit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b1570228-5a45-4cce-965e-f7823580e7be",
+                    "path": "<MidiDevice>/note036",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Scale",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cb6a55cc-4c2d-46bc-a564-625aaed882c0",
+                    "path": "<MidiDevice>/note036",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 0,0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c8f92b11-e0c7-4e74-8007-59e1dc8e2ec5",
+                    "path": "<MidiDevice>/note037",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 1,0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "372c32d4-92df-44b3-a7a4-d69af6e6f19d",
+                    "path": "<MidiDevice>/note038",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 2,0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aa9373a9-6606-4c65-be63-20af26f42690",
+                    "path": "<MidiDevice>/note039",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 3,0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0348b2ff-8bc3-4673-985c-02fe7b8a29df",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 0,1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dcb6f0b6-926e-438e-b7b1-b94aca92cd8d",
+                    "path": "<MidiDevice>/note041",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 1,1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2031e770-a139-483d-bfe3-6919528dc273",
+                    "path": "<MidiDevice>/note042",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 2,1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "92450004-0a65-4862-b894-21806f55e2db",
+                    "path": "<MidiDevice>/note043",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 3,1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d788bb71-dfa4-4856-834c-39fa6276ce9b",
+                    "path": "<MidiDevice>/note044",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 0,2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "388222de-f4ea-4f44-ba49-57823213c71b",
+                    "path": "<MidiDevice>/note045",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 1,2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ce9116c5-ffba-46d4-982c-1bdea927c7d9",
+                    "path": "<MidiDevice>/note046",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 2,2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "751d071f-0c9a-47a2-9260-5baa0c9781d5",
+                    "path": "<MidiDevice>/note047",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 3,2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "36c0b631-b32b-4290-ae09-73a508c47e9e",
+                    "path": "<MidiDevice>/note048",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 0,3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0e0b471c-8aa4-4db3-aff3-0f7c58733b45",
+                    "path": "<MidiDevice>/note049",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 1,3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5e5902fc-4165-4ef6-bd44-2b46b75bf269",
+                    "path": "<MidiDevice>/note050",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 2,3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ed37934c-6d02-42ca-84a3-1487c6e1dd3e",
+                    "path": "<MidiDevice>/note051",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "Grid 3,3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6f529df6-fcc0-4d6d-a658-aab773872e09",
+                    "path": "<MidiDevice>/control002",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MF 3D Tilt Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "2D Vector",
+                    "id": "9ee4ae79-4299-49c2-82b1-a634becd5458",
+                    "path": "2DVector(mode=2)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MF 3D Tilt 2D",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "4034ccb0-6c17-4109-b918-b10fef0302ce",
+                    "path": "<MidiDevice>/control001",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt 2D",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "5a6bc748-3b8e-4da0-afb8-8ae420fe6b68",
+                    "path": "<MidiDevice>/control003",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt 2D",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "aebb43ff-dc40-4ff5-ac3b-5fd56dac2703",
+                    "path": "<MidiDevice>/control000",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt 2D",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "7e6a74f3-4761-46d4-ae57-b35dd8d646eb",
+                    "path": "<MidiDevice>/control002",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt 2D",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "1b5288c9-cb6f-4982-a35e-e0bbf6acb91f",
+                    "path": "<MidiDevice>/control001",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a1718a18-3979-49bc-aa82-3a30fcf9f38d",
+                    "path": "<MidiDevice>/control003",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "228cbf1b-b1af-46de-8d0d-86dc999fa78a",
+                    "path": "<MidiDevice>/control000",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MIDI Device",
+                    "action": "MF 3D Tilt Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MIDI Device",
+            "bindingGroup": "MIDI Device",
+            "devices": [
+                {
+                    "devicePath": "<MidiDevice>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
