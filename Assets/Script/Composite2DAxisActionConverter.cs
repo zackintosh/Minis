@@ -1,16 +1,16 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
-namespace Zack
+namespace NisTest
 {
-    [System.Serializable] public sealed class Vector2Event : UnityEvent<Vector2> { };
+    [Serializable]
+    public sealed class Vector2Event : UnityEvent<Vector2> {}
 
     public class Composite2DAxisActionConverter : MonoBehaviour
     {
-        public Vector2Event eventToFire = null;
+        public Vector2Event eventToFire;
 
         public void OnAction(InputAction.CallbackContext context)
         {
